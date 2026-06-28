@@ -1,0 +1,37 @@
+Country,State,Year,"Human Lives Lost Per 1 Crore Population Due To Extreme Weather Events (UOM:Ratio), Scaling Factor:1","Disaster Preparedness Score As Per Disaster Resilience Index (UOM:Number), Scaling Factor:1","Renewable Energy Out Of Total Installed Generating Capacity (Including Allocated Shares) (%) (UOM:%(Percentage)), Scaling Factor:1","Co2 Saved From Light Emitting Diode (Led) Bulbs Per 1,000 Population (UOM:t/1000population(Tonneper1000population)), Scaling Factor:1","Disability Adjusted Life Years (Daly) Rate Attributable To Air Pollution Per 1,00,000 Population (UOM:PerLakh(100000)), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",,20.5,46.25603865,104.9301746,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",15.56734317,19.5,40.72527666,43.86758501,3007
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",221.0314802,11.5,84.78245092,34.18542615,1436
+India,Assam,"Calendar Year (Jan - Dec), 2020",15.56854566,23,32.27202017,21.47245058,3464
+India,Bihar,"Calendar Year (Jan - Dec), 2020",,19.5,7.913384876,16.64637212,4308
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",,24.5,69.4031283,48.10726073,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",2.458901222,14,5.944421584,38.3222211,3667
+India,Delhi,"Calendar Year (Jan - Dec), 2020",,25,12.5631259,67.57339516,1890
+India,Goa,"Calendar Year (Jan - Dec), 2020",,13.5,1.055007438,67.78475336,1482
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",10.69534604,27,34.51133451,62.16332501,3102
+India,Haryana,"Calendar Year (Jan - Dec), 2020",1.056300834,19.5,23.22897417,55.4367653,3928
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",471.9317556,23,93.96223317,121.7885498,2318
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",23.60106585,12,73.84060786,66.42284226,3029
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",,7.5,9.480012883,37.15195279,3117
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",10.236822,18,63.20053363,37.53682859,2871
+India,Kerala,"Calendar Year (Jan - Dec), 2020",136.2740337,24.5,40.1597862,45.63772969,1698
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",23.60106585,12,73.84060786,81.40939597,3029
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",,9.5,100,309.3823529,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",3.80503492,16.5,33.53120924,21.77809333,3809
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",8.732113583,27.5,30.18259084,18.52507174,2816
+India,Manipur,"Calendar Year (Jan - Dec), 2020",81.16883117,11,40.92506302,9.946721311,1822
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",28.125,16.5,73.65618786,13.83915023,1798
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",,16.5,65.52904314,53.09433962,1585
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",56.23242737,10.5,53.57245173,52.5978162,1408
+India,Odisha,"Calendar Year (Jan - Dec), 2020",22.7810783,22,31.40329275,120.0720634,3201
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",,21,2.0024433,40.45959596,
+India,Punjab,"Calendar Year (Jan - Dec), 2020",4.713963433,18,37.72204676,10.41698461,3523
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",2.219552956,18.5,46.0392287,22.64471171,4528
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",45.52352049,16,84.83904927,25.44542773,1620
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",12.85449245,24.5,51.59075516,5.968658063,2412
+India,Telangana,"Calendar Year (Jan - Dec), 2020",,13,41.1241495,6.073416113,2710
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",,28,7.65105814,29.29606328,
+India,Tripura,"Calendar Year (Jan - Dec), 2020",55.51349987,22.5,12.41440393,27.03994119,3598
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",4.708456837,16.5,25.7689552,11.91422246,4390
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",62.41519674,19.5,71.5184245,52.03278259,3300
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",27.56476684,19.5,17.75679475,9.877834868,3761

@@ -1,0 +1,37 @@
+Country,State,Year,"Rate Of Crimes Against Women Per 1,00,000 Female Population (UOM:PerLakh(100000)), Scaling Factor:1","Sex Ratio At Birth (UOM:Ratio), Scaling Factor:1","Ratio Of Female To Male Average Wage Received Among Regular Wage Or Salaried Employees (UOM:Ratio), Scaling Factor:1","Per Lakh Women Who Have Experienced Cruelty Or Physical Violence By Husband Or His Relatives During The Year (UOM:PerLakh(100000)), Scaling Factor:1","Elected Women Over Total Seats In The State Legislative Assembly (%) (UOM:%(Percentage)), Scaling Factor:1","Ratio Of Female To Male Labour Force Participation Rate (Lfpr) In The Age Group Of 15 To 59 Years (UOM:Ratio), Scaling Factor:1","Proportion Of Women In Managerial Positions Including Women In Board Of Directors, In Listed Companies Per 1,000 Persons (UOM:Number), Scaling Factor:1","Currently Married Women With Satisfied Family Planning Methods (%) (UOM:%(Percentage)), Scaling Factor:1","Operational Land Holding Gender Wise (Percentage Of Female Operated Operational Holdings) (%) (UOM:%(Percentage)), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",72.2,,0.95,0.526315789,,0.39,,73,29.7975573
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",67.9,920,0.71,30.42081102,8,0.55,208,93.6,30.0864392
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",43.3,,0.56,7.397260274,5,0.26,,50,12.07296937
+India,Assam,"Calendar Year (Jan - Dec), 2020",177.8,925,0.53,70.72824156,6.349206349,0.17,221,55.6,1.668045976
+India,Bihar,"Calendar Year (Jan - Dec), 2020",32.3,895,0.75,4.583477959,11.52263374,0.06,214,51.4,13.99611269
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",95.2,,0.96,32.77777778,,0.35,274,72.5,10.82887701
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",53.5,958,0.64,5.090403338,14.44444444,0.64,250,79.3,13.79135987
+India,Delhi,"Calendar Year (Jan - Dec), 2020",144,844,0.75,40.76262084,11.42857143,0.25,188,69.5,13.65032147
+India,Goa,"Calendar Year (Jan - Dec), 2020",43.1,,0.78,1.184210526,5,0.44,197,56.5,25.68968523
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",27.1,866,0.81,11.16959064,7.558139535,0.28,190,67.4,16.48920635
+India,Haryana,"Calendar Year (Jan - Dec), 2020",108.5,843,0.85,36.04582409,10,0.21,236,81.3,14.75975344
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",45.4,930,0.8,6.398891967,7.352941176,0.8,222,71.7,7.433620684
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",47.8,927,0.78,5.420560748,2.298850575,0.45,100,66.3,7.601928403
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",47.8,923,0.58,8.177850518,12.34567901,0.28,229,63.8,11.26568261
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",42.5,924,0.75,7.702245463,3.139013453,0.34,209,82.5,20.07409738
+India,Kerala,"Calendar Year (Jan - Dec), 2020",62.7,957,0.84,17.68179333,5.714285714,0.45,241,75.3,22.97722581
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",47.8,927,0.78,5.420560748,2.298850575,0.45,100,66.3,7.601928403
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",115.2,,0.98,0,,0.25,,33.6,41.03024858
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",69,925,0.74,14.35185185,9.130434783,0.36,227,78,11.88248484
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",63.1,880,0.75,14.56584537,8.333333333,0.44,196,84,15.46377569
+India,Manipur,"Calendar Year (Jan - Dec), 2020",17.2,,0.76,0.967741935,3.333333333,0.36,,23.6,6.796071343
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",34.6,,0.73,1.428571429,5.084745763,0.69,111,48.1,34.32359282
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",28.7,,0.91,1.016949153,0,0.42,,63.8,11.77735202
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",4.1,,0.86,0,0,0.31,167,43.5,9.850304276
+India,Odisha,"Calendar Year (Jan - Dec), 2020",103.5,933,0.65,12.79142474,8.904109589,0.32,206,64.1,4.063770975
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",12.1,,0.75,1.012658228,13.33333333,0.41,615,87.1,22.80141844
+India,Punjab,"Calendar Year (Jan - Dec), 2020",41.5,890,0.67,11.39534884,5.128205128,0.26,190,80.9,1.548622557
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",110.4,871,0.79,49.03028693,12,0.43,181,74.3,10.12379981
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",39.8,,0.88,0.322580645,9.375,0.68,,67.1,6.29089079
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",15.6,908,0.73,2.059599156,8.510638298,0.49,185,83,19.65050913
+India,Telangana,"Calendar Year (Jan - Dec), 2020",99.3,901,0.68,46.0982191,5.042016807,0.52,128,88.2,22.99525786
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",23.4,,0.6,2.190635452,,0.36,170,63.4,19.8391831
+India,Tripura,"Calendar Year (Jan - Dec), 2020",54.5,,0.72,22.94416244,5,0.23,,57.2,12.29950069
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",55.4,880,0.94,17.22027002,10.60606061,0.19,243,49.9,7.654876609
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",46.5,840,0.71,11.79487179,8.450704225,0.29,234,71.6,11.92822008
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",64,941,0.53,36.12550011,13.60544218,0.28,166,72.7,3.16892852

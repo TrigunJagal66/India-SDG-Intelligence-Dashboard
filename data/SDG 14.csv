@@ -1,0 +1,10 @@
+Country,State,Year,"Mean Shore Zone Coastal Water Quality (Biochemical Oxygen Demand (Bod)) (UOM:mg/L(Milligramsperliter)), Scaling Factor:1","Mean Shore Zone Coastal Water Quality (Total Nitrogen (Tn)) (UOM:µmol/L(micromoleperliter)), Scaling Factor:1","Increase In Area Under Mangroves (%) (UOM:%(Percentage)), Scaling Factor:1","Average Marine Acidity (Ph) Measured At Representative Sampling Stations In The Shore Zone (UOM:pHvalue), Scaling Factor:1","Potential Area Available For Developed Under Aquaculture (%) (UOM:%(Percentage)), Scaling Factor:1"
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",0.79,40.5,0,8.07,37.10402299
+India,Goa,"Calendar Year (Jan - Dec), 2020",0.77,20.12,0,8.06,1.447368421
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",0.73,25.62,3.245614035,8.01,10.78777778
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",1.04,28.48,0,8.03,13.4375
+India,Kerala,"Calendar Year (Jan - Dec), 2020",0.62,21.29,0,8.02,4.709230769
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",1.99,36.46,5.263157895,7.97,10.624
+India,Odisha,"Calendar Year (Jan - Dec), 2020",0.39,65,3.29218107,7.97,41.73101266
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",1.11,31.38,-8.163265306,8.1,14.9875
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",0.52,,-0.094607379,8.14,63.88222222

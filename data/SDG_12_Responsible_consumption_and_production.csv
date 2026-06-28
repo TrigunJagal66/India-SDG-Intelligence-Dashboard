@@ -1,0 +1,37 @@
+Country,State,Year,"Per Capita Fossil Fuel Consumption (UOM:KG(Kilogram)), Scaling Factor:1","Use Of Nitrogenous Fertilizer Out Of Total N,P,K, (Nitrogen, Phosphorous, Potassium) (%) (UOM:%(Percentage)), Scaling Factor:1","Hazardous Waste Generated Per 1,000 Population (UOM:MetricTonne(t)per1000populationperannum), Scaling Factor:1","Quantity Of Hazardous Waste Recycled Or Utilized To Total Hazardous Waste Generated (%) (UOM:%(Percentage)), Scaling Factor:1","Plastic Waste Generated Per 1,000 Population-Implementation Of Plastic Waste Management Rules, 2011 Census Population Projections (UOM:Tonne(t)per1000populationperannum), Scaling Factor:1","Biomedical Waste Treated To Total Quality Of Biomedical Waste Generated (%) (UOM:%(Percentage)), Scaling Factor:1","Installed Capacity Of Grid Interactive Bio Power Per 10 Lakh Population (UOM:MW(Megawattper10lakhpopulation)), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",558,46.98795181,0.00040404,0,4.671717172,100,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",158.4,59.57593086,11.27927045,75.99231874,1.274484932,100,9.63573452
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",179.7,0,,,2.536751507,100,0
+India,Assam,"Calendar Year (Jan - Dec), 2020",88,66.6436845,1.337719942,20.91567852,0.948149987,75.04804576,0.057482827
+India,Bihar,"Calendar Year (Jan - Dec), 2020",50.5,68.58499065,0.138160953,28.40540706,0.582283302,28.83458718,1.023011608
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",412.6,0,1.536752137,43.93770857,10.01316239,100,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",160.9,56.46047117,8.557503161,19.7549412,0.210762962,28.55982853,8.376372405
+India,Delhi,"Calendar Year (Jan - Dec), 2020",291.9,89.00999092,2.176166863,0.049332832,11.49276622,100,2.559181062
+India,Goa,"Calendar Year (Jan - Dec), 2020",547.1,43.63143631,19.11082138,4.338927548,21.2389309,100,0.218931101
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",351.4,71.02628285,50.11680209,33.09937451,5.301222537,100,1.117520348
+India,Haryana,"Calendar Year (Jan - Dec), 2020",415,75.83818213,4.65814584,177.4634154,2.420170417,100,7.25225071
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",227.4,62.89231836,3.738167309,65.69987854,0.505228398,100,1.249660418
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",119.7,62.48936532,0.206699657,1264.493554,2.616472783,95.4730197,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",103.4,70.08129188,13.00164656,2.062399309,1.388898696,52.55329132,0.112816476
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",216,52.61605201,6.335935829,54.79048053,4.167700535,100,28.39719682
+India,Kerala,"Calendar Year (Jan - Dec), 2020",189.9,40.21673359,3.0481673,32.63789306,3.808702111,58.66638583,0.064182312
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",119.7,62.48936532,0.206699657,1264.493554,2.616472783,95.4730197,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",235,0,0.71641791,0,2.208955224,20.87286528,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",110.3,63.037865,3.025076408,67.05537702,0.887768531,91.80039554,1.465584144
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",187,50.69814958,9.236121294,11.57225143,3.374467629,99.54500304,20.99833436
+India,Manipur,"Calendar Year (Jan - Dec), 2020",88.5,52.85359801,,,4.043441558,79.37482459,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",166,0,0.1521875,1.848049281,0.3946875,100,4.227941176
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",127.2,64.23562412,0.0000169,50,0.011241554,100,
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",77.9,0,0.009372071,50,0.125670103,100,
+India,Odisha,"Calendar Year (Jan - Dec), 2020",141.4,60.63473905,20.67896547,62.80781527,2.013199178,100,1.302540416
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",435.6,71.63355408,24.07157326,33.12482468,5.694125591,135.0525487,
+India,Punjab,"Calendar Year (Jan - Dec), 2020",255,78.89437528,4.110845483,18.01651268,4.020830331,100,16.04426919
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",166.2,70.62689386,8.147038855,99.1874974,1.367040683,75.97554299,1.542444249
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",207.1,0,2.226100152,0,0.008588771,73.35215243,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",199.9,49.22429824,17.26264246,48.73460721,5.315279618,100,13.3791537
+India,Telangana,"Calendar Year (Jan - Dec), 2020",198.4,65.99772645,9.925168782,52.2505707,4.942334594,100,5.485400682
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",1035.1,79.27536232,,,2.117065217,100,
+India,Tripura,"Calendar Year (Jan - Dec), 2020",64,0,0.073933888,93.17406143,0.006611153,100,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",91.1,73.71885424,1.119218127,60.40410435,1.1407999,100,9.248463511
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",170.6,78.35349661,2.171053822,96.3334861,2.812573496,99.12438372,11.51065146
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",96.2,50.19930958,1.92480829,49.91224481,3.11125513,100,3.273877138

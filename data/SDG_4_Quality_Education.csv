@@ -1,0 +1,37 @@
+Country,State,Year,"Adjusted Net Enrolment Ratio (Aner) In Elementary Education For Classes 1 To 8 (UOM:%(Percentage)), Scaling Factor:1","Average Annual Dropout Rate At Secondary Level For Classes 9 To 10 (UOM:%(Percentage)), Scaling Factor:1","Gross Enrolment Ratio (Ger) In Higher Secondary For Classes 11 To 12 (UOM:%(Percentage)), Scaling Factor:1","Students In Grade Viii Achieving Atleast A Minimum Proficiency Level In Terms Of Nationally Defined Learning Outcomes To Be Attained By The Pupils At The End Of The Grade (%) (UOM:%(Percentage)), Scaling Factor:1","Gross Enrolment Ratio (Ger) In Higher Education In The Age Group Of 18 To 23 Years (UOM:%(Percentage)), Scaling Factor:1","Persons With Disability, Completed At Least Secondary Education With Age 15 Years And Above (%)  (UOM:%(Percentage)), Scaling Factor:1","Gender Parity Index (Gpi) For Higher Education In The Age Group 18 To 23 Years (UOM:Ratio), Scaling Factor:1","Literate Persons Under The Age Of 15 Years And Above (%) (UOM:%(Percentage)), Scaling Factor:1","Schools With Access To Basic Infrastructure Such As Electricity,Drinking Water (%) (UOM:%(Percentage)), Scaling Factor:1","Trained Teachers At Secondary Level For Classes 9 To 10 (%) (UOM:%(Percentage)), Scaling Factor:1","Pupil Teacher Ratio (Ptr) At Secondary Level For Classes 9 To 10 (UOM:Ratio), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",74.1,22.22,56.44,65.5,23.2,28.5,1.29,88.3,96.01449275,85.05477308,10
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",87.98,16.37,46.84,80.15,32.4,15.4,0.81,65.6,91.25996133,75.17659626,16
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",80.98,35.98,38.48,59.95,29.7,10.3,0.99,79.9,50.93593462,79.03649635,14
+India,Assam,"Calendar Year (Jan - Dec), 2020",96.36,31.47,30.94,79.55,18.7,16.8,0.95,84.9,59.51390145,29.2946067,11
+India,Bihar,"Calendar Year (Jan - Dec), 2020",86.54,28.46,26.39,78.3,13.6,18.5,0.79,64.7,88.66401564,78.44219452,58
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",85.78,4.52,83.43,81.55,50.6,37.4,1.54,89.1,100,89.49313622,12
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",89.25,18.29,52.08,68.9,18.6,17.2,1.06,74.1,90.03802822,78.02984528,18
+India,Delhi,"Calendar Year (Jan - Dec), 2020",100,14.93,70.07,67.35,46.3,41,1.16,86.4,100,89.32937546,29
+India,Goa,"Calendar Year (Jan - Dec), 2020",88.26,9.4,71.95,71.65,30.1,32.4,1.33,88.9,99.96635262,85.69935187,11
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",85.38,23.84,41.2,81.05,20.4,22.8,0.85,80.7,99.95236438,91.79558965,33
+India,Haryana,"Calendar Year (Jan - Dec), 2020",89.31,14.79,56.05,71.6,29.2,25.1,1.23,77.3,98.81660576,89.09837023,15
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",97.82,7.81,81.79,72.75,39.6,25.6,1.3,84.2,97.59499231,79.55168465,9
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",67.88,17.81,42.31,59.75,30.9,19.7,1.09,76.4,80.13666352,80.09377818,12
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",89.15,22.26,38.89,84,19.1,16.9,0.96,67.3,84.74666725,80.12104283,51
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",100,23.43,44.4,83.5,28.8,20.9,1.04,75.7,93.79801363,92.13478515,15
+India,Kerala,"Calendar Year (Jan - Dec), 2020",92.07,9.14,80.26,86.75,37,24.3,1.4,94.6,99.24256033,94.52644335,16
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",67.88,17.81,42.31,59.75,30.9,19.7,1.09,76.4,80.13666352,80.09377818,12
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",75.27,4.56,73.5,65.25,7.4,18,3.4,95.7,100,86.20689655,7
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",81.19,24.85,43.73,70.5,21.5,17.2,0.97,70.5,75.34191864,81.19037187,36
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",90.92,13.29,68.93,76.3,32,25.7,0.9,80.3,92.73935348,93.82471473,22
+India,Manipur,"Calendar Year (Jan - Dec), 2020",100,13.03,54.82,72.3,33.7,28.9,1.01,85.6,68.92031379,55.50180018,10
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",97.43,19.47,41.64,64.5,25.8,12.3,1.17,91.4,28.38980162,43.62735181,12
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",90.08,10.64,51.87,68.25,25.7,17.4,0.94,98.5,83.75926399,61.32508024,10
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",67.38,24.08,33.92,60.95,18.7,11.9,1.11,93.8,63.2630814,36.02674308,11
+India,Odisha,"Calendar Year (Jan - Dec), 2020",71.57,9.52,65.86,71.85,22.1,13.8,0.82,72.5,68.71079937,75.81538051,22
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",84.15,12.73,69.78,61.3,46.4,28.6,1.24,89.5,99.932341,92.57057949,11
+India,Punjab,"Calendar Year (Jan - Dec), 2020",71.5,11.52,68.14,61.55,29.5,23.4,1.35,79.4,99.93365227,86.84792742,13
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",83.29,12.69,56.51,88.1,23,14.9,1,67.1,83.23334027,92.22949481,12
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",72.91,23.67,58.22,64.4,53.9,20.4,1,86.2,99.14728682,63.92318244,13
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",85.49,13.02,72.32,71.3,49,19.1,0.97,80.7,96.08381796,93.30682113,18
+India,Telangana,"Calendar Year (Jan - Dec), 2020",93.69,13.47,56.49,69.8,36.2,20.8,1.02,67.4,91.51694015,90.95662046,11
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",83.94,21.09,43.335,72.35,7.4,24.8,2.02,83,100,86.59250586,21.5
+India,Tripura,"Calendar Year (Jan - Dec), 2020",100,29.55,38.62,71.3,19.2,13.4,0.83,89.9,57.11830131,45.79598805,18
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",84.54,15.51,46.12,67.35,25.8,17.8,1.14,68.2,81.48352151,73.85739904,34
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",96.38,10.95,66.2,74.95,39.1,24.7,1,79,87.72019186,89.78249495,15
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",93.21,19.49,51.73,70.55,19.3,16.6,0.94,79,92.61714438,81.1405371,36

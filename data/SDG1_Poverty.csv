@@ -1,0 +1,37 @@
+Country,State,Year,"Population Living Below The National Poverty Line (%)  (UOM:%(Percentage)), Scaling Factor:1","Head Count Ratio As Per The Multidimensional Poverty Index (%) (UOM:%(Percentage)), Scaling Factor:1","Households With Any Usual Member Covered By A Health Scheme Or Health Insurance (%) (UOM:%(Percentage)), Scaling Factor:1","Persons Provided Employment To The Persons Who Demanded Employment Under Mahatma Gandhi National Rural Employment Guarantee Act (Mgnrega) (%) (UOM:%(Percentage)), Scaling Factor:1","Population (Out Of Total Eligible Population) Receiving Social Protection Benefits Under Pradhan Mantri Matru Vandana Yojana (Pmmvy) And Child Development (%) (UOM:%(Percentage)), Scaling Factor:1","Households Living In Katcha Houses  (%) (UOM:%(Percentage)), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",1,6.9,5.7,82.96189792,96.73,0
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",9.2,15.6,74.6,83.80865126,96.4,3.2
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",34.67,24.4,58.3,95.43586213,92.76,29
+India,Assam,"Calendar Year (Jan - Dec), 2020",31.98,36.2,10.4,86.10938706,95.32,2.4
+India,Bihar,"Calendar Year (Jan - Dec), 2020",33.74,52.5,12.3,78.59992053,87.97,8.2
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",21.81,4.8,21.3,,96.22,0
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",39.93,36.8,68.5,77.08559332,94.98,2.1
+India,Delhi,"Calendar Year (Jan - Dec), 2020",9.91,4.3,15.7,,96.5,0.8
+India,Goa,"Calendar Year (Jan - Dec), 2020",5.09,5.5,15.9,97.38598443,93.96,0.4
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",16.63,21.7,23.1,83.62577745,92.83,2
+India,Haryana,"Calendar Year (Jan - Dec), 2020",11.16,10.9,12.2,79.12016258,97.24,0.2
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",8.06,8.1,25.7,90.29906641,95.86,0.2
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",10.35,15.2,4.2,84.31858391,96.69,4.3
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",36.96,46.5,13.3,80.62341045,89.69,6.6
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",20.91,17.3,28.1,86.33674622,92.35,2
+India,Kerala,"Calendar Year (Jan - Dec), 2020",7.05,1.1,47.7,88.84764355,97.75,0.3
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",10.35,15.2,4.2,97.75120754,96.69,4.3
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",2.77,1.8,2.9,91.85185185,26.41,0
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",31.65,41.1,17.7,79.27065901,95.86,4.5
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",17.35,17.3,15,84.28964809,92.98,2
+India,Manipur,"Calendar Year (Jan - Dec), 2020",36.89,21,3.6,97.06282716,87.84,2.5
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",11.87,32.8,34.6,97.95301089,96.61,2.3
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",20.4,9.8,45.8,99.92497659,93.45,6
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",18.88,23.7,6.1,98.95996673,91.3,0.7
+India,Odisha,"Calendar Year (Jan - Dec), 2020",32.59,35.9,47.7,85.50740389,,14.2
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",9.69,3.4,32.8,84.75669722,96.01,2.2
+India,Punjab,"Calendar Year (Jan - Dec), 2020",8.26,6.1,21.2,77.65969546,96.46,0.5
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",14.71,32,18.7,84.24338687,98.15,2.8
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",8.19,4.9,30.3,91.2961761,92.17,0.6
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",11.28,7.3,64,94.44132977,88.42,2.4
+India,Telangana,"Calendar Year (Jan - Dec), 2020",,17.5,66.4,81.38131103,,1.5
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",24.585,20.05,23.9,,92.575,0.2
+India,Tripura,"Calendar Year (Jan - Dec), 2020",14.05,20.3,58.1,96.38300879,86.58,2.6
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",29.43,40.8,6.1,82.14847613,93.48,6.4
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",11.26,17.3,19.5,90.0232385,89.02,1.8
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",19.98,26.3,33.4,87.59478663,71.57,6

@@ -1,0 +1,37 @@
+Country,State,Year,"Population In The Lowest Two Wealth Quintiles (%) (UOM:%(Percentage)), Scaling Factor:1","Elected Women Over Total Seats In The State Or Ut(Lok Sabha Elections) (%) (UOM:%(Percentage)), Scaling Factor:1","Seats Held By Women In Panchayati Raj Institutions (%)  (UOM:%(Percentage)), Scaling Factor:1","Scheduled Caste (Sc) Or Scheduled Tribe (St) Seats In State Legislative Assemblies (%) (UOM:%(Percentage)), Scaling Factor:1","Ratio Of Transgender To Male Labour Force Participation Rate (Lfpr)-5th Employment (UOM:Ratio), Scaling Factor:1","Rate Of Total Crimes Against Scheduled Caste (Sc) Per 1,00,000 Sc Population (UOM:PerLakh(100000)), Scaling Factor:1","Rate Of Total Crimes Against Scheduled Tribes (St) Per 1,00,000 St Population (UOM:PerLakh(100000)), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",16,0,35.66,,,,10.5
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",22.4,16,50,20.57142857,0.99,24.5,12.5
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",43.6,0,38.99,98.33333333,1.39,,0
+India,Assam,"Calendar Year (Jan - Dec), 2020",62.5,7.14,54.6,19.04761905,0.6,0.9,0.1
+India,Bihar,"Calendar Year (Jan - Dec), 2020",75.2,7.5,52.02,16.46090535,0.59,39.5,7.3
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",3.4,100,34.32,,,0.5,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",59,27.27,54.79,43.33333333,0.81,10.4,5.5
+India,Delhi,"Calendar Year (Jan - Dec), 2020",2.3,14.29,,17.14285714,0.67,2.7,
+India,Goa,"Calendar Year (Jan - Dec), 2020",5.6,0,36.72,2.5,,11.8,1.3
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",25.2,23.08,49.96,21.97802198,0.39,34.8,3.6
+India,Haryana,"Calendar Year (Jan - Dec), 2020",9.7,10,42.12,18.88888889,0.67,21.2,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",11.7,0,50.13,29.41176471,1.23,10.9,0.3
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",26.4,0,33.18,8.045977011,0.25,0.2,0
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",68,14.29,51.57,45.67901235,0.86,16.3,4
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",27.3,7.14,50.05,22.86995516,0.59,14.4,7.7
+India,Kerala,"Calendar Year (Jan - Dec), 2020",3.2,5,52.42,11.42857143,0.99,28.2,28.9
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",26.4,0,33.18,8.045977011,0.25,0.2,0
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",1.2,0,37.27,,,,0
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",54.7,13.79,50,35.65217391,0.56,46.7,12.5
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",26.6,16.67,53.47,18.75,0.65,16.2,5.3
+India,Manipur,"Calendar Year (Jan - Dec), 2020",41.1,0,50.69,33.33333333,,0,0.2
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",46.9,50,,91.66666667,1.33,0,0
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",17,0,23.64,97.5,1.35,0,0.8
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",42.9,0,,98.33333333,0.44,,0
+India,Odisha,"Calendar Year (Jan - Dec), 2020",63.8,33.33,52.68,39.04109589,0.74,26.2,6
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",12.7,0,,16.66666667,,2,
+India,Punjab,"Calendar Year (Jan - Dec), 2020",5.2,15.38,41.79,29.05982906,0.2,1.9,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",41.7,12,51.32,29.5,0.36,55.6,19.5
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",7.6,0,50.3,43.75,0.07,14.1,1
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",19.9,7.89,52.99,19.65811966,0.74,7.9,3.9
+India,Telangana,"Calendar Year (Jan - Dec), 2020",26,5.88,50.35,26.05042017,1.06,31.1,16.1
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",27.65,0,39.945,,,16.25,0
+India,Tripura,"Calendar Year (Jan - Dec), 2020",55.7,50,45.23,50,,0,0.2
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",54.1,13.75,33.34,21.28712871,0.42,28.6,63.6
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",23.1,20,56.02,21.42857143,0.65,4.4,2.7
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",53.5,26.19,51.42,28.57142857,0.48,0.6,1.9

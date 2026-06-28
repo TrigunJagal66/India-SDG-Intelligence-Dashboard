@@ -1,0 +1,37 @@
+Country,State,Year,"Targeted Habitations Connected By All Weather Roads Under Pradhan Mantri Gram Sadak Yojana (Pmgsy) (UOM:%(Percentage)), Scaling Factor:1","Share Of Gross Value Added (Gva) In Manufacturing To Total Gross Value Added (Gva) In Current Prices (%) (UOM:%(Percentage)), Scaling Factor:1","Manufacturing Employment As A Percentage Of Total Employment (%) (UOM:%(Percentage)), Scaling Factor:1","Innovation Score As Per The India Innovation Index (UOM:Number), Scaling Factor:1","Score As Per Logistics Ease Across Different States (Leads) Report (UOM:Number), Scaling Factor:1","Mobile Connections Per 100 Persons (Mobile Tele Density) As Per Deptof Telecommunications (UOM:Ratio), Scaling Factor:1","Internet Subscribers Per 100 Population As Per Deptof Telecommunications (UOM:Ratio), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",0,1.089260716,7.19,18.89,,87.87,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",98.46029173,9.580830638,10.6,24.19,3.42,85.71,65.61
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",81.74726989,3.20094162,2.05,14.9,2.77,84,52.34
+India,Assam,"Calendar Year (Jan - Dec), 2020",94.37695497,12.25241667,10.55,16.38,3,67.51,41.57
+India,Bihar,"Calendar Year (Jan - Dec), 2020",97.18216256,7.21331516,5.3,14.48,2.85,50.65,30.99
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",,3.235648739,8.47,38.57,3.45,136.42,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",97.15488907,12.60146339,5.46,15.77,3.01,67.99,44.24
+India,Delhi,"Calendar Year (Jan - Dec), 2020",,5.198887038,22.99,46.6,3.36,190.61,199.88
+India,Goa,"Calendar Year (Jan - Dec), 2020",100,42.49716078,16.39,24.92,2.78,177.45,74.72
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",100,36.74268245,20.84,23.63,3.62,94.71,64.79
+India,Haryana,"Calendar Year (Jan - Dec), 2020",100,20.22207725,17.6,25.81,3.37,112.77,59.33
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",91.88767551,29.78709068,6.48,25.06,2.72,145.83,82.63
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",89.19925512,8.091408981,9.1,18.62,2.87,85.02,55.23
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",99.86401674,20.0212532,7.68,17.12,2.88,57.55,30.99
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",100,15.87864159,11.74,42.5,3.37,100.28,69.35
+India,Kerala,"Calendar Year (Jan - Dec), 2020",99.5049505,10.76216245,11.77,30.58,3.16,123.01,77.47
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",98.46153846,8.091408981,9.1,18.62,2.87,153.2,55.23
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",,,4.79,11.71,,124.28,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",99.69193907,8.848306052,6.84,20.82,3.21,65.29,44.24
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",99.03489235,19.38042773,11.24,38.03,3.42,101.07,74.72
+India,Manipur,"Calendar Year (Jan - Dec), 2020",89.26380368,2.424615855,12.11,22.78,2.42,72.97,52.34
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",63.1840796,8.883794624,1.27,12.15,2.56,70.23,52.34
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",67.24137931,0.644401135,5.34,16.93,2.31,109.73,52.34
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",87.1559633,1.3685384,8.11,14.11,2.28,74.27,52.34
+India,Odisha,"Calendar Year (Jan - Dec), 2020",98.5125261,19.61483184,8.15,18.94,3.18,75.09,44.87
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",,29.64819008,20.85,25.23,3.28,72.97,
+India,Punjab,"Calendar Year (Jan - Dec), 2020",100,13.78235152,19.39,22.54,3.46,122.19,84.32
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",100.0062563,10.38885586,7.5,20.83,3.16,81.89,53.79
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",93.71428571,45.42623715,3.31,20.28,2.9,99.44,51.74
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",100,20.57527511,18.74,37.91,3.4,101.75,65.68
+India,Telangana,"Calendar Year (Jan - Dec), 2020",99.66386555,11.53572315,12.86,33.23,3.22,109.9,65.61
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",,,60.935,49.5,6.39,70.02,
+India,Tripura,"Calendar Year (Jan - Dec), 2020",95.86653386,3.305443308,6.38,12.84,2.95,75.78,52.34
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",99.99148864,14.5390314,10.51,22.85,3.08,67.62,38.73
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",84.66880342,37.52160757,12.81,23.5,2.85,113.58,38.73
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",99.12587413,12.34170818,18.66,21.69,2.99,80.99,51.74

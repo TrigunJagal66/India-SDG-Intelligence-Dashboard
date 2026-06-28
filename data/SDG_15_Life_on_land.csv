@@ -1,0 +1,37 @@
+Country,State,Year,"Forest Covered To The Total Geographical Area (%) (UOM:%(Percentage)), Scaling Factor:1","Tree Covered To The Geographical Area (%) (UOM:%(Percentage)), Scaling Factor:1","Geographical Area Covered By Forest And Trees (%) (UOM:%(Percentage)), Scaling Factor:1","Area Covered Under Afforestation Schemes To The Total Geographical Area (%) (UOM:%(Percentage)), Scaling Factor:1","Degraded Land Over Total Land Area (%) (UOM:%(Percentage)), Scaling Factor:1","Increase In Area Of Desertification (%) (UOM:%(Percentage)), Scaling Factor:1","Cases Under Wildlife Protection Act (1972) Per Million Hectares Of Protected Area (UOM:PerMillion(1000000)), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",81.74,0.5,82.24,0.086434719,6.416292884,,13
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",17.88,2.4,20.28,1.407693535,33.81495754,1.368329888,5
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",79.63,1.01,80.64,,11.7366347,12.61797112,4
+India,Assam,"Calendar Year (Jan - Dec), 2020",36.11,1.8,37.91,,9.452268033,25.23194953,63
+India,Bihar,"Calendar Year (Jan - Dec), 2020",7.76,2.13,9.89,0.372906556,12.65548039,5.347674664,9
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",19.32,22.34,41.66,1.543859649,0.5,,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",41.13,3.14,44.27,0.192592757,26.85035357,1.597371425,
+India,Delhi,"Calendar Year (Jan - Dec), 2020",13.18,8.73,21.91,,4.921105866,22.24610278,
+India,Goa,"Calendar Year (Jan - Dec), 2020",60.43,7.34,67.77,0.004051864,11.63722312,3.494084459,101
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",7.57,3.52,11.09,0.902692566,30,1.827703522,7
+India,Haryana,"Calendar Year (Jan - Dec), 2020",3.62,3.54,7.16,0.384510992,8.803514883,7.750259868,90
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",27.72,1.49,29.21,0.16525066,22.98854023,11.80900416,6
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",39.66,3.57,43.23,0.051166328,46.22490506,5.714333846,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",29.62,3.33,32.95,0.285124693,16.55597371,1.477653965,
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",20.11,3.26,23.37,0.323831671,27.4788963,0.144893857,2
+India,Kerala,"Calendar Year (Jan - Dec), 2020",54.42,7.56,61.98,0.049495521,7.658190055,2.449313383,12
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",1.47,,1.47,0.051166328,46.22490506,5.714333846,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",90.33,0.97,91.3,0,1.4,,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",25.14,2.71,27.85,,19.17081479,0.860637994,20
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",16.5,3.51,20.01,0.121519078,35.72454202,3.575887037,40
+India,Manipur,"Calendar Year (Jan - Dec), 2020",75.46,0.77,76.23,0.288529583,38.29435213,1.494875171,44
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",76.33,3.17,79.5,0.122297026,28.37785902,3.35299953,40
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",85.41,2.09,87.5,0.190693041,34.92106636,95.52220125,8
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",75.31,2.19,77.5,,47.05464745,22.47751843,
+India,Odisha,"Calendar Year (Jan - Dec), 2020",33.15,2.98,36.13,2.455663522,38.32272794,-0.334260132,4
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",10.7,4.66,15.36,0.128571429,3.365306122,,
+India,Punjab,"Calendar Year (Jan - Dec), 2020",3.67,3.16,6.83,0.135915968,3.150291887,55.34876228,26
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",4.86,2.37,7.23,0.12819404,52.69436271,-0.458216103,7
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",47.1,0.51,47.61,0.05143743,10.7511274,0.340205397,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",20.27,3.71,23.98,0.254859296,18.76473166,1.795919982,42
+India,Telangana,"Calendar Year (Jan - Dec), 2020",18.36,2.24,20.6,4.369076617,28.84999598,-1.62980165,5
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",30.31,5.31,35.62,0.271233556,9.842268951,,
+India,Tripura,"Calendar Year (Jan - Dec), 2020",73.68,2.2,75.88,0.463284379,9.796109098,33.55494314,33
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",6.15,3.05,9.2,0.213810765,11,-16.68785346,19
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",45.44,1.57,47.01,0.400071051,17.67913169,11.52912475,63
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",19.04,2.26,21.3,0.120031098,5.560888769,3.076363364,115
